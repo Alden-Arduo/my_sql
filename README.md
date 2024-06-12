@@ -1,3 +1,3 @@
 # my_sql
 
-My SQL files showcasing how to create tables and inserting data into those tables. Then utilising SQL qeuries to retrieve specific datasets. 
+My SQL files showcasing how to create tables and inserting data into those tables. Then utilising SQL queries to retrieve specific datasets. 
